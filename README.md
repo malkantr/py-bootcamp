@@ -34,3 +34,8 @@
 - Day 24 - Intermediate - Files, Directories and Paths
 - Day 25 - Intermediate - Working with CSV Data and the Pandas Library 
 - Day 26 - Intermediate - List Comprehension and the NATO Alphabet
+- Day 27 - Intermediate - Tkinter, *args, **kwargs adn Creating GUI Programs
+- Day 28 - Section 28: Day 28 - Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter
+- Day 30 - Intermediate - Errors, Exceptions and JSON Data: Improving the Password
+- Day 31 - Intermediate - Flash Card App Capstone Project
